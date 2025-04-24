@@ -1,4 +1,5 @@
 🌍🔮 Earthquake Prediction Based on Planetary Positions 
+
 This project is an experimental application that uses planetary positions (astrological data) in combination with machine learning to estimate the probability of earthquake occurrences in Turkey.
 
 It combines historical earthquake records with the positions of planets as observed from Earth, and applies machine learning to detect patterns and forecast seismic risk for future dates.
